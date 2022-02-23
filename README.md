@@ -1,5 +1,3 @@
-# PROJECT_NAME
+# ETH Uni Directory
 
-run `npx hardhat compile --force` to force recompile all contracts
-
-Please follow me [here](https://twitter.com/kzdagoof) and reach out [here](https://thekevinz.com/) to jam on ideas!
+On-chain directory of ETH Uni students and a token :)
